@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prashant Bharate</h1>
+<img src="https://camo.githubusercontent.com/b011832cb3c804dd98b735de9a545dd0804465f2fdb31515a31673f6f5b02f17/68747470733a2f2f64657670756e63682e636f6d2f696d672f4465762d41742d576f726b2d4769662e6a7067"/>
 <h3 align="center">A passionate Java Backend Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prashantbharate&label=Profile%20views&color=0e75b6&style=flat" alt="prashantbharate" /> </p>
