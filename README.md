@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Spring boot,Mysql,Data-Structure**
 
-- 👨‍💻 All of my projects are available at [https://prashant-bharate.netlify.appp](https://prashant-bharate.netlify.app)
+- 👨‍💻 All of my projects are available at [Portfolio](https://prashant-bharate.netlify.app)
 
 - 💬 Ask me about **java,mysql,html-css**
 
