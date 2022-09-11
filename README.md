@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **prshntbharate77@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/11eXTxgyW18Z4YDkCrffyO8p9XFZ4fdEK/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1xXVY4uaeC8vPXF_UpGOBBoqWWDS1L_Ba/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
