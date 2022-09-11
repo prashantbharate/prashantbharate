@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://prashant-bharate.netlify.app)
 
-- 💬 Ask me about **java,mysql,html-css**
+- 💬 Ask me about **Java, Mysql, Html-Css, Javascript, Bootstrap**
 
 - 📫 How to reach me **prshntbharate77@gmail.com**
 
