@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prashantbharate&label=Profile%20views&color=0e75b6&style=flat" alt="prashantbharate" /> </p>
 
-- 🌱 I’m currently learning **Java, Hibernate, Spring boot,Mysql,Data-Structure & Algorithm**
+- 🌱 I’m currently learning **Java, Hibernate, Spring boot, Mysql, Data-Structure & Algorithm**
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://prashant-bharate.netlify.app)
 
-- 💬 Ask me about **Java, Mysql, Html-Css, Javascript, Bootstrap**
+- 💬 Ask me about **Java, Hibernate, Spring boot, Mysql, Data-Structure & Algorithm, Html-Css, Javascript, Bootstrap**
 
 - 📫 How to reach me **prshntbharate77@gmail.com**
 
