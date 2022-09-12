@@ -35,3 +35,24 @@
 <a href="https://codeigniter.com" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40"/> </a>
 </p>
 </div>
+
+
+
+
+## 📊 My Github Stats
+  <br/>
+    <a href="https://github.com/prashantbharate/github-readme-stats"><img alt="prashantbharate's Github Stats" src="https://github-readme-stats.vercel.app/api?username=prashantbharate&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/prashantbharate/github-readme-stats"><img alt="prashantbharate's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prashantbharate&langs_count=8&count_private=true&layout=compact&exclude_repo=prashantbharate.github.io,c3,test,web-Coding,ZaraWeb-Clone&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <br/>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+
+<br/>
+<br/>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prashantbharate&&theme=tokyonight" alt="prashantbharate" /></p>
+
+![snake gif](https://github.com/prashantbharate/prashantbharate/blob/output/github-contribution-grid-snake.gif)
+
+
+
+
