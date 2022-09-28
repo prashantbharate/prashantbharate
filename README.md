@@ -33,6 +33,11 @@
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
 <a href="https://codeigniter.com" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40"/> </a>
 </p>
+
+<div align="center">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>   
 </div>
 
 
@@ -47,6 +52,11 @@
 
 <br/>
 <br/>
+
+    
+
+   
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prashantbharate&&theme=tokyonight" alt="prashantbharate" /></p>
 
