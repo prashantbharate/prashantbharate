@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Prashant Bharate</h1>
-<img style="width:100%"  src="https://camo.githubusercontent.com/0babe6f6815941bc8e4394599090b9e570baeb301d82a163188b18431c544fe8/68747470733a2f2f69636f6e73686f74732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031392f30332f4a6176612d446576656c6f7065722d31393230783936302e6a7067"/>
 <h3 align="center">A passionate Java Backend Developer</h3>
 <h3>&nbsp; &nbsp;I am an ambitious, self-motivated, honest Java Backend Developer. Problemsolving mindset and am a good team player. Passionate about coding and strongly interested in a growth-oriented organization & Love to work in a team.</h3>
+<img style="width:100%"  src="https://camo.githubusercontent.com/0babe6f6815941bc8e4394599090b9e570baeb301d82a163188b18431c544fe8/68747470733a2f2f69636f6e73686f74732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031392f30332f4a6176612d446576656c6f7065722d31393230783936302e6a7067"/>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prashantbharate&label=Profile%20views&color=0e75b6&style=flat" alt="prashantbharate" /> </p>
 
